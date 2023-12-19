@@ -5,8 +5,6 @@ Welcome to the StayHealthy Medical Appointment Booking Website! This website all
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
 
 ## Features
 
